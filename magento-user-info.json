@@ -1,0 +1,104 @@
+{
+    "id": 26744,
+    "group_id": 1,
+    "default_billing": "29913",
+    "default_shipping": "29913",
+    "created_at": "2020-09-07 07:06:00",
+    "updated_at": "2020-09-07 07:31:26",
+    "created_in": "Default Store View",
+    "email": "18686921961@163.com",
+    "firstname": "小七",
+    "lastname": "于",
+    "store_id": 1,
+    "website_id": 1,
+    "addresses": [
+        {
+            "id": 29913,
+            "customer_id": 26744,
+            "region": {
+                "region_code": "ON",
+                "region": "Ontario",
+                "region_id": 74
+            },
+            "region_id": 74,
+            "country_id": "CA",
+            "street": [
+                "Highland Road"
+            ],
+            "telephone": "18686921961",
+            "postcode": "N0G 1M0",
+            "city": "Minto",
+            "firstname": "小七",
+            "lastname": "于",
+            "default_shipping": true,
+            "default_billing": true
+        },
+        {
+            "id": 29914,
+            "customer_id": 26744,
+            "region": {
+                "region_code": "ON",
+                "region": "Ontario",
+                "region_id": 74
+            },
+            "region_id": 74,
+            "country_id": "CA",
+            "street": [
+                "Highland Road"
+            ],
+            "telephone": "18686921961",
+            "postcode": "N0G 1M0",
+            "city": "Minto",
+            "firstname": "小七",
+            "lastname": "于"
+        },
+        {
+            "id": 29915,
+            "customer_id": 26744,
+            "region": {
+                "region_code": "ON",
+                "region": "Ontario",
+                "region_id": 74
+            },
+            "region_id": 74,
+            "country_id": "CA",
+            "street": [
+                "Highland Road"
+            ],
+            "telephone": "18686921961",
+            "postcode": "N0G 1M0",
+            "city": "Minto",
+            "firstname": "小七",
+            "lastname": "于"
+        },
+        {
+            "id": 29916,
+            "customer_id": 26744,
+            "region": {
+                "region_code": "ON",
+                "region": "Ontario",
+                "region_id": 74
+            },
+            "region_id": 74,
+            "country_id": "CA",
+            "street": [
+                "Highland Road"
+            ],
+            "telephone": "18686921961",
+            "postcode": "N0G 1M0",
+            "city": "Minto",
+            "firstname": "小七",
+            "lastname": "于"
+        }
+    ],
+    "disable_auto_group_change": 0,
+    "extension_attributes": {
+        "is_subscribed": false
+    },
+    "custom_attributes": [
+        {
+            "attribute_code": "rewards_subscription",
+            "value": "1"
+        }
+    ]
+}
